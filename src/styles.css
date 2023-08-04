@@ -28,7 +28,7 @@ body {
 
 .container {
   width: 450px;
-  height: 80vh;
+  height: 90vh;
   background-color: var(--blue-2);
   border-radius: 20px;
   box-shadow: 10px 10px 10px var(--shadow-dark);
@@ -130,15 +130,15 @@ body {
 }
 
 .info-block-value {
-  width: 50%;
+  width: 60%;
   display: flex;
   justify-content: center;
   align-items: center;
   color: var(--white);
   height: 40px;
-  background-color: #6c71c1;
+  background-color: #787eca;
   border-radius: 20px;
-  margin-top: 40px;
+  margin-top: 50px;
   margin-right: 20px;
-  box-shadow: 3px 3px 3px var(--shadow-dark);
+  box-shadow: inset 3px 3px 3px var(--shadow-dark);
 }
